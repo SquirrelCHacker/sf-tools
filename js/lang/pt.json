@@ -283,7 +283,7 @@
             "s": "Servidor",
             "e": "Expressão personalizada",
             "#": "Mostrar apenas jogadores com tags específicas",
-            "l": "Mostrar apenas os últimos",
+            "l": "Mostrar apenas os mais recentes",
             "f": "Mostrar apenas a primeira ou primeiras n entradas",
             "r": "Recalcular tabela",
             "x": "Ativar simulador (o valor é o número de tentativas)",
@@ -316,87 +316,87 @@
                 "me": "Eu",
                 "players": "Jogadores",
                 "guilds": "Clãs",
-                "tracker": "Tracker Configuration",
+                "tracker": "Configuração de Tracker",
                 "default": "Predefinição"
             },
             "online": {
-                "not_available": "No scripts available"
+                "not_available": "Sem scripts disponíveis"
             }
         },
         "players": {
             "other": "Mostrar outros jogadores",
-            "hidden": "Show hidden"
+            "hidden": "Mostrar ocultado"
         },
         "guilds": {
-            "other": "Show other guilds",
-            "hidden": "Show hidden",
-            "missing": "Player data is missing for following members:"
+            "other": "Mostrar outras clãs",
+            "hidden": "Mostrar ocultado",
+            "missing": "Dados do jogador estão em falta para os seguintes membros:"
         },
         "browse": {
-            "hidden": "Show hidden"
+            "hidden": "Mostar ocultado"
         },
         "fast_export": {
-            "label": "Share",
-            "title": "Export options",
-            "all": "All",
-            "latest": "Latest",
-            "latest5": "Latest 5",
-            "selected": "Selected",
-            "selected_both": "Selected & Reference"
+            "label": "Partilhar",
+            "title": "Opções de exportar",
+            "all": "Todas",
+            "latest": "Mais recente",
+            "latest5": "5 mais recentes",
+            "selected": "Selecionada",
+            "selected_both": "Selecionada & Referência"
         },
         "share": {
-            "title": "File sharing",
-            "options": "Options",
-            "code": "Your code",
-            "get": "Get code",
+            "title": "Partilha de ficheiros",
+            "options": "Opções",
+            "code": "O teu código de programação",
+            "get": "Obter código de programação",
             "ok": "Ok",
-            "expire": "The code will automatically expire after 2 days.",
-            "single_use": "Single use only",
-            "single_use_notice": "Please consider keeping this option enabled unless you plan to share the file with multiple people."
+            "expire": "O código de programação expira automaticamente após 2 dias.",
+            "single_use": "Uso único",
+            "single_use_notice": "Considera manter esta opção ativada exceto se planeias partilhar o ficheiro com múltiplas pessoas."
         },
         "online_templates": {
-            "title": "Public scripts",
-            "description": "Description",
-            "author": "Author",
-            "created_on": "Created on",
-            "loading": "Fetching scripts"
+            "title": "Scripts públicos",
+            "description": "Descrição",
+            "author": "Autor",
+            "created_on": "Criado em",
+            "loading": "Busca de scripts"
         },
         "templates": {
             "title": "Templates",
             "loading": "Committing changes",
             "form": {
-                "changed_on": "Changed on",
+                "changed_on": "Alterado em",
                 "version": "Tool Version",
-                "compatibility": "Compatibility",
-                "published_on": "Published on",
+                "compatibility": "Compatibilidade",
+                "published_on": "Publicado em",
                 "code": "Code",
-                "publish": "Publish",
-                "publish_tooltip": "Publish template",
+                "publish": "Publicar",
+                "publish_tooltip": "Template de Publicação",
                 "unpublish_tooltip": "Unpublish template",
                 "update": "Update",
                 "update_tooltip": "Update template with current script",
-                "remove": "Remove",
-                "remove_tooltip": "Remove template"
+                "remove": "Remover",
+                "remove_tooltip": "Remover template"
             },
             "quick_swap": "Quick swap custom templates"
         },
         "group": {
-            "compared_to": "compared to"
+            "compared_to": "comparado com"
         },
         "player": {
-            "attributes": "Attributes",
-            "basis": "Basis",
+            "attributes": "Atributos",
+            "basis": "Base",
             "miscellaneous": "Misc",
-            "armor": "Armor",
-            "damage": "Damage",
+            "armor": "Armadura",
+            "damage": "Danos",
             "health": "Health",
-            "potions": "Potions",
-            "guild": "Guild",
-            "name": "Name",
+            "potions": "Poções",
+            "guild": "Clã",
+            "name": "Nome",
             "role": "Role",
             "joined_on": "Joined on",
             "bonuses": "Bonuses",
-            "scrapbook": "Scrapbook",
+            "scrapbook": "Álbum de Recortes da Meticulosidade",
             "achievements": "Achievements",
             "mount": "Mount",
             "heath_bonus": "Health Bonus",
@@ -407,57 +407,57 @@
             "knights": "Hall of Knights",
             "extras": {
                 "title": "Extras",
-                "registered": "Registered"
+                "registered": "Registado"
             },
             "runes": {
-                "title": "Runes",
-                "gold": "Gold",
-                "experience": "Experience",
+                "title": "Runas",
+                "gold": "Ouro",
+                "experience": "Experiência",
                 "epic": "Epic Chance",
                 "quality": "Item Quality",
                 "health": "Health",
-                "fire_damage": "Fire Damage",
-                "cold_damage": "Cold Damage",
-                "lightning_damage": "Lightning Damage",
-                "fire_resist": "Fire Resistance",
-                "cold_resist": "Cold Resistance",
-                "lightning_resist": "Lightning Resistance"
+                "fire_damage": "Danos do Fogo",
+                "cold_damage": "Danos de Frio",
+                "lightning_damage": "Danos de Raio",
+                "fire_resist": "Resistência ao Fogo",
+                "cold_resist": "Resistência ao Frio",
+                "lightning_resist": "Resistência aos Raios"
             },
             "fortress": {
-                "title": "Fortress",
+                "title": "Fortaleza",
                 "upgrades": "Upgrades",
-                "rank": "Rank",
-                "honor": "Honor",
-                "building1": "Fortress",
-                "building2": "Quarters",
-                "building3": "Woodcutter",
-                "building4": "Quarry",
-                "building5": "Gem Mine",
-                "building6": "Academy",
-                "building7": "Archery Guild",
-                "building8": "Barracks",
-                "building9": "Mage Tower",
-                "building10": "Treasury",
-                "building11": "Smithy",
-                "building12": "Fortifications",
-                "working": "Building"
+                "rank": "Posto",
+                "honor": "Honra",
+                "building1": "Fortaleza",
+                "building2": "Alojamentos dos Trabalhadores",
+                "building3": "Cabana do Lenhador",
+                "building4": "Pedreira",
+                "building5": "Mina de Pedras Preciosas",
+                "building6": "Academia",
+                "building7": "Clã do Tiro com Arco",
+                "building8": "Quartel",
+                "building9": "Torre dos Feiticeiros",
+                "building10": "Tesouro",
+                "building11": "Forja",
+                "building12": "Fortificações",
+                "working": "Em construção"
             }
         },
         "settings": {
-            "title": "Global configuration",
-            "always_prev": "Compare previous (guilds)",
-            "empty_groups": "Show empty groups",
-            "obfuscated": "Hide player names",
-            "insecure": "Allow insecure html tags",
-            "insecure_error#": "This table was not displayed because it contains HTML tags that are prohibited.<br/>Please remove them from your settings and try again.",
-            "terms": "Accept Terms of Service",
-            "tab": "Default tab",
-            "preload": "Preload rows",
+            "title": "Configuração global",
+            "always_prev": "Comparar prévios (clãs)",
+            "empty_groups": "Mostrar grupos vazios",
+            "obfuscated": "Ocultar nomes dos jogadores",
+            "insecure": "Permitir tags html não seguras",
+            "insecure_error#": "Esta tabela não é exibida porque contém tags HTML que são proibidas.<br/>Por favor remova-as das definições e tente outra vez.",
+            "terms": "Aceitar Termos de Serviço",
+            "tab": "Tab predefinida",
+            "preload": "Pré-carregar linhas",
             "actions": {
-                "title": "Actions",
-                "reset": "Reset actions",
-                "ignore": "Ignore changes",
-                "save": "Save actions"
+                "title": "Ações",
+                "reset": "Redefinir ações",
+                "ignore": "Ignorar alterações",
+                "save": "Salvar ações"
             }
         }
     }
